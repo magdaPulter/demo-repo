@@ -4,4 +4,8 @@ Some description!
 
 ## Subheader
 
-Some another text!!!
+Some text!
+
+## Local Developement
+
+1. Open index.html in your browser
